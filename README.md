@@ -32,17 +32,10 @@ Hands-on AWS lab showcasing how to securely deploy a public-facing EC2 web serve
 - Public HTTP access for external clients.
 
 ---
-
 ## 📸 Screenshots
-Add screenshots here to illustrate key steps:
-- Security Group configuration
-- EC2 instance details
-- Elastic IP association
-- Web server homepage
 
-Example:
-```markdown
-![Security Group Rules](./screenshots/sg-rules.png)
-![EC2 Instance](./screenshots/ec2-instance.png)
-![Elastic IP](./screenshots/elastic-ip.png)
-![Web Server](./screenshots/web-server-homepage.png)
+![Security Group Rules](./screenshots/sg-rules.jpg)
+![EC2 Instance](./screenshots/ec2-instance.jpg)
+![Elastic IP](./screenshots/elastic-ip.jpg)
+![Web Server Homepage](./screenshots/web-server-homepage.jpg)
+![Dashboard](./screenshots/dashboard.png)
